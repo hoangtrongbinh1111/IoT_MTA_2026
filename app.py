@@ -1,2 +1,2 @@
 print("Hello world 02")
-error
+print("Fixx error py done!")
